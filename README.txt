@@ -1,2 +1,3 @@
 # HelloGit
-ÕâÊÇÒ»¸öGitµÄÊ¹ÓÃÁ·Ï°ÏîÄ¿
+ï¿½ï¿½ï¿½è¿™æ˜¯ä¸€ä¸ªå®‰å“å·¥ç¨‹
+this is a test
